@@ -1,0 +1,2 @@
+# ShufflePuck
+The aim of this assessment was to develop a virtual environment for the game of ShufflePuck using physically based modelling techniques. The program has been written in C++ using the OpenGL and GLUT libraries. All of the compulsory components and the extensions have been implemented. The program can maintain a frame rate of between 40 fps and 70 fps at a resolution of 800 x 400 pixels on a Pentium III 750MHz system, with a GeForce2 graphics processor.
